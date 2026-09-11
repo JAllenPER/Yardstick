@@ -1,6 +1,4 @@
 # Yardstick
-Sports-inspired visualizations for WGU course and institutional comparisons.
-# Yardstick
 
 Yardstick is an interactive demonstration of sports-inspired visualizations for comparing WGU courses, colleges, and university-level results with peer institutions using semantic differential ratings.
 
